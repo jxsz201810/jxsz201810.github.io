@@ -54,8 +54,8 @@
 ![photo2](https://cdn.jsdelivr.net/gh/jxsz201810/jxsz201810.github.io@res/-3ad88d681b58368f.jpg)
 
 
-* Author:JiaSswee *
-* E-mail:jiashiwei678@163.com 如果同学们还想想往此页面添加内容可以发邮件和我说 *
+* Author:JiaSswee 
+* E-mail:jiashiwei678@163.com 如果同学们还想想往此页面添加内容可以发邮件和我说 
 ####  Thanks 十班的全体师生 ####
 
 ## 莒县三中2018级10班 ###

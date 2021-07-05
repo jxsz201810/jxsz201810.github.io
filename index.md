@@ -51,8 +51,10 @@
 ## 我们的永远回忆 ##
 
 ![photo1](https://cdn.jsdelivr.net/gh/jxsz201810/jxsz201810.github.io@res/-644aff6f840b8422.jpg)
+
 ![photo2](https://cdn.jsdelivr.net/gh/jxsz201810/jxsz201810.github.io@res/-3ad88d681b58368f.jpg)
 
+![video1](https://cdn.jsdelivr.net/gh/jxsz201810/jxsz201810.github.io@res/QQ%E8%A7%86%E9%A2%91_af172516452f4ec815793b5b3cadb92f1625488790.mp4?raw=true)
 
 * Author:JiaSswee 
 * E-mail:jiashiwei678@163.com 如果同学们还想想往此页面添加内容可以发邮件和我说 

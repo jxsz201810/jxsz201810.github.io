@@ -36,6 +36,8 @@
 
 >*李好:『地球是圆的，我们会再遇的』*
 
+>*杜鑫眙:山前即相见,山后即相逢。*
+
 
 ## 老师们的寄语 ##
 >语文老师于老师:
@@ -60,7 +62,7 @@
 
 ![photo2](https://cdn.jsdelivr.net/gh/jxsz201810/jxsz201810.github.io@res/-3ad88d681b58368f.jpg)
 
-<video src="https://cdn.jsdelivr.net/gh/jxsz201810/jxsz201810.github.io@res/QQ%E8%A7%86%E9%A2%91_af172516452f4ec815793b5b3cadb92f1625488790.mp4?raw=true)" controls="controls" width="500" height="300">您的浏览器不支持播放该视频！</video>
+<video src="https://cdn.jsdelivr.net/gh/jxsz201810/jxsz201810.github.io@res/QQ%E8%A7%86%E9%A2%91_af172516452f4ec815793b5b3cadb92f1625488790.mp4?raw=true)" controls="controls" width="500" height="300">您的浏览器不支持播放该视频！建议使用chrome来查看</video>
 
 
 * Author:JiaSswee 
